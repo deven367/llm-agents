@@ -13,3 +13,5 @@ General roadmap for the sake of understanding would be
 And the end goal
 
 ![final](images/final.png)
+
+These diagrams are taken from Santiago's YT video &rarr; [Link to YT Video](https://www.youtube.com/watch?v=BrsocJb-fAo&ab_channel=Underfitted)
